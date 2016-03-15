@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "929cd1d8-6067-b444-9346-370f0db59829++9619" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "929cd1d8-6067-b444-9346-370f0db59829++9619" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E410864D-DF41-4B68-950E-180642FB55AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "929cd1d8-6067-b444-9346-370f0db59829++9619" : "%E6%98%93%E6%B1%87%E6%99%BA\/%E6%98%93%E6%B1%87%E6%99%BA\/ZMJKit\/CTAssetsPickerController\/ZYQAssetPicker.Bundle\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "易汇智",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "易汇智.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/172.18.252.81\/svn\/IosRepository",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "929cd1d8-6067-b444-9346-370f0db59829++9619"
+    }
+  ]
+}

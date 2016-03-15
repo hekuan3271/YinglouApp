@@ -1,0 +1,168 @@
+
+/* Class = "UILabel"; text = "无"; ObjectID = "01B-vY-ufr"; */
+"01B-vY-ufr.text" = "无";
+
+/* Class = "UILabel"; text = "防区"; ObjectID = "2Er-IH-tVD"; */
+"2Er-IH-tVD.text" = "防区";
+
+/* Class = "UITextField"; placeholder = "请输入用户名"; ObjectID = "3YN-b6-qWv"; */
+"3YN-b6-qWv.placeholder" = "请输入用户名";
+
+/* Class = "UILabel"; text = "请选择开始时间"; ObjectID = "3eT-ou-Ptn"; */
+"3eT-ou-Ptn.text" = "请选择开始时间";
+
+/* Class = "UILabel"; text = "首页"; ObjectID = "4z1-4J-adk"; */
+"4z1-4J-adk.text" = "首页";
+
+/* Class = "UITabBarItem"; title = "主机切换"; ObjectID = "6Rn-4X-6q9"; */
+"6Rn-4X-6q9.title" = "主机切换";
+
+/* Class = "UILabel"; text = "新主机密码"; ObjectID = "6vD-Mu-hAk"; */
+"6vD-Mu-hAk.text" = "新主机密码";
+
+/* Class = "UILabel"; text = "易汇智"; ObjectID = "7Aw-ee-zAB"; */
+"7Aw-ee-zAB.text" = "易汇智";
+
+/* Class = "UIButton"; normalTitle = "获取场所列表"; ObjectID = "7dD-Kg-pVy"; */
+"7dD-Kg-pVy.normalTitle" = "获取场所列表";
+
+/* Class = "UILabel"; text = "旧主机密码"; ObjectID = "817-HS-Dgz"; */
+"817-HS-Dgz.text" = "旧主机密码";
+
+/* Class = "UILabel"; text = "注销登录"; ObjectID = "8Lt-5A-ymc"; */
+"8Lt-5A-ymc.text" = "注销登录";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "9qv-t1-msK"; */
+"9qv-t1-msK.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "AGS-eC-PxP"; */
+"AGS-eC-PxP.text" = "新密码";
+
+/* Class = "UILabel"; text = "短信设置"; ObjectID = "AZr-XL-5HB"; */
+"AZr-XL-5HB.text" = "短信设置";
+
+/* Class = "UILabel"; text = "旧密码"; ObjectID = "C2e-r0-xul"; */
+"C2e-r0-xul.text" = "旧密码";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "DOG-4H-QwM"; */
+"DOG-4H-QwM.text" = "状态";
+
+/* Class = "UILabel"; text = "防区设置"; ObjectID = "DqD-kN-uH3"; */
+"DqD-kN-uH3.text" = "防区设置";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "Ejr-Jq-K2n"; */
+"Ejr-Jq-K2n.normalTitle" = "忘记密码";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "GwM-D2-d7b"; */
+"GwM-D2-d7b.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "报警搜索"; ObjectID = "LMf-Rm-NNO"; */
+"LMf-Rm-NNO.text" = "报警搜索";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "LgV-rd-Icg"; */
+"LgV-rd-Icg.text" = "开始时间";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "PMk-pQ-Wlw"; */
+"PMk-pQ-Wlw.text" = "结束时间";
+
+/* Class = "UILabel"; text = "修改登录密码"; ObjectID = "RAt-hG-WM4"; */
+"RAt-hG-WM4.text" = "修改登录密码";
+
+/* Class = "UITabBarItem"; title = "系统设置"; ObjectID = "S2f-LN-F6c"; */
+"S2f-LN-F6c.title" = "系统设置";
+
+/* Class = "UILabel"; text = "定时布防"; ObjectID = "TTX-ZU-cRa"; */
+"TTX-ZU-cRa.text" = "定时布防";
+
+/* Class = "UIButton"; normalTitle = "搜索"; ObjectID = "VUT-dx-tHt"; */
+"VUT-dx-tHt.normalTitle" = "搜索";
+
+/* Class = "UITabBarItem"; title = "报警列表"; ObjectID = "WiT-D7-TMj"; */
+"WiT-D7-TMj.title" = "报警列表";
+
+/* Class = "UILabel"; text = "请选择结束时间"; ObjectID = "Xds-yf-9t2"; */
+"Xds-yf-9t2.text" = "请选择结束时间";
+
+/* Class = "UIButton"; normalTitle = "搜索"; ObjectID = "dnR-O2-7Xe"; */
+"dnR-O2-7Xe.normalTitle" = "搜索";
+
+/* Class = "UILabel"; text = "报警列表"; ObjectID = "eNO-P3-wt9"; */
+"eNO-P3-wt9.text" = "报警列表";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "fwg-aY-bsU"; */
+"fwg-aY-bsU.text" = "结束时间";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "gAV-dq-hJw"; */
+"gAV-dq-hJw.text" = "无";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "heJ-Ex-xeY"; */
+"heJ-Ex-xeY.text" = "Label";
+
+/* Class = "UILabel"; text = "新主机密码"; ObjectID = "hec-6A-JqU"; */
+"hec-6A-JqU.text" = "新主机密码";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "ho2-lb-QBb"; */
+"ho2-lb-QBb.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "huP-Bp-Sdk"; */
+"huP-Bp-Sdk.text" = "新密码";
+
+/* Class = "UILabel"; text = "自动登录"; ObjectID = "icn-66-QBd"; */
+"icn-66-QBd.text" = "自动登录";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ih7-Dp-Lt3"; */
+"ih7-Dp-Lt3.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "防区信息"; ObjectID = "inC-RQ-Izv"; */
+"inC-RQ-Izv.title" = "防区信息";
+
+/* Class = "UITableViewSection"; footerTitle = "        "; ObjectID = "j5o-VX-IH2"; */
+"j5o-VX-IH2.footerTitle" = "        ";
+
+/* Class = "UILabel"; text = "修改主机密码"; ObjectID = "jYp-Wm-oLF"; */
+"jYp-Wm-oLF.text" = "修改主机密码";
+
+/* Class = "UILabel"; text = "我的设备"; ObjectID = "jqT-O7-d3i"; */
+"jqT-O7-d3i.text" = "我的设备";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mXC-DZ-HIO"; */
+"mXC-DZ-HIO.text" = "Label";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "mqE-CK-R7a"; */
+"mqE-CK-R7a.text" = "开始时间";
+
+/* Class = "UILabel"; text = "地址："; ObjectID = "oNw-6K-Rea"; */
+"oNw-6K-Rea.text" = "地址：";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "pKf-yL-Vgt"; */
+"pKf-yL-Vgt.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "rGL-GD-Evb"; */
+"rGL-GD-Evb.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "布防模式"; ObjectID = "rIT-EO-vb8"; */
+"rIT-EO-vb8.text" = "布防模式";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "rSu-cP-Fbz"; */
+"rSu-cP-Fbz.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "记住密码"; ObjectID = "t48-Ts-HBI"; */
+"t48-Ts-HBI.text" = "记住密码";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "vOu-hn-7K6"; */
+"vOu-hn-7K6.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "（2条）"; ObjectID = "vU3-Th-0f2"; */
+"vU3-Th-0f2.text" = "（2条）";
+
+/* Class = "UILabel"; text = "布防策略"; ObjectID = "yIB-Fk-Tiv"; */
+"yIB-Fk-Tiv.text" = "布防策略";
+
+/* Class = "UILabel"; text = "防区信息"; ObjectID = "zuy-Gn-nj3"; */
+"zuy-Gn-nj3.text" = "防区信息";
+
+/* Class = "UISegmentedControl"; zyl-4A-xOu.segmentTitles[0] = "当前报警"; ObjectID = "zyl-4A-xOu"; */
+"zyl-4A-xOu.segmentTitles[0]" = "当前报警";
+
+/* Class = "UISegmentedControl"; zyl-4A-xOu.segmentTitles[1] = "历史报警"; ObjectID = "zyl-4A-xOu"; */
+"zyl-4A-xOu.segmentTitles[1]" = "历史报警";

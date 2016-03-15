@@ -1,0 +1,11 @@
+
+pod "AFNetworking"
+pod "MBProgressHUD"
+pod "BlocksKit"
+pod "JSONModel"
+pod "SDWebImage"
+pod "UIImage-Resize"
+pod "FMDB"
+pod "Reachability"
+pod "BlocksKit"
+

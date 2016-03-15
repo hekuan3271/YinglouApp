@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  易汇智
+//
+//  Created by App on 15/12/7.
+//  Copyright © 2015年 Jason. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+//链接
+#define WeakSelfType __weak __typeof(&*self)
+
+#define kCellIdentifier                 @"Cell"             //TableView
+#define kItemCellIdentifier             @"ItemCell"     //UICollectionView要用的
+
+#define SCREEN_FRAME ([UIScreen mainScreen].applicationFrame)
+#define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
+#define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
+#define KGmodalShare  [KGModal sharedInstance]
+#define WeakSelfType __weak __typeof(&*self)
+
+#define makeFrame(x,y,width,height) CGRectMake(x, y, width, height);
+#define color(r,g,b,al) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:al]
+#import "TSEHttpTool.h"
+#import "SVProgressHUD.h"
+#import <UIImageView+WebCache.h>
+#import "MJRefresh.h"
+
+#import "SJAvatarBrowser.h"
+#import "UIView+BlocksKit.h"
+#import "NSObject+BKBlockExecution.h"
+#import <UIImageView+WebCache.h>
+#import "UITabBar+badge.h"
+#import "KGModal.h"
+#import "UIView+SDAutoLayout.h"
+#import "StringUtils.h"
+#import "UITableView+SDAutoTableViewCellHeight.h"
+#import "StringUtils.h"
+#import "UIControl+BlocksKit.h"
